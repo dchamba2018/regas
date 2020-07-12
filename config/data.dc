@@ -1,0 +1,10 @@
+<?php 
+$titulo="Control-ISTPM";
+$programador="Ing. Diego Chamba";
+$llave="5ed7ch";
+
+$meses=array("Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre");
+$tipos=array("ACTIVADOR","ADMINISTRADOR","DISTRIBUIDOR","PROVEEDOR","SUPERADMINISTRADOR","VENDEDOR");
+
+
+?>
